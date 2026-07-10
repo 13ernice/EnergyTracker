@@ -118,4 +118,3 @@ public class ApplianceManager {
         System.out.println("✅ " + removedAppliance.getName() + " has been deleted successfully.");
     }                        
 }
-//vjvj
